@@ -1,1 +1,1 @@
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,java,c,cpp,git,github,vscode&perline=3" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,vue,deno,nodejs,discordjs,python,flask,html,css,php,bootstrap,java,lua,robloxstudio,go,rust,c,cpp,cs,unity,dotnet,cloudflare,firebase,cmake,git,github,figma,miro,discord,vscode,visualstudio,postman,mongodb,sqlite,mysql,windows,ubuntu,stackoverflow&perline=3" /> </p>
